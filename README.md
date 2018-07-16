@@ -26,7 +26,7 @@ License: MIT Open Source License<br><br>
 
 The libs that it depends on are, Python 3.6, NumPy, TKinter, MatPlotLib, PyAudio, Pillow. But for a simpler installation I recommend you to use the Python distribution Anaconda for Python 3.6 or latter. And then make the following commands in the Anaconda prompt shell:<br><br>
 
-[Cypress](https://www.anaconda.com/download/)<br><br>
+[Anaconda](https://www.anaconda.com/download/)<br><br>
 
 pip install pyaudio <br>
 conda install -c conda-forge pillow <br><br> 
